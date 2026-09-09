@@ -1,0 +1,391 @@
+{
+  "meta": {
+    "title": "Trixync Education — Coding Cohorts in Medan",
+    "titleTemplate": "%s · Trixync Education",
+    "description": "Cohort-based coding education in Medan for primary, junior high, senior high, and job seekers. Live 2-hour sessions, real projects, Demo Day. Practitioner-led — not slides."
+  },
+  "nav": {
+    "programs": "Programs",
+    "tutors": "Tutors",
+    "approach": "Approach",
+    "pricing": "Pricing",
+    "collaboration": "Collaborate",
+    "faq": "FAQ",
+    "enroll": "Enroll",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "skipToContent": "Skip to content",
+    "switchToLight": "Light mode",
+    "switchToDark": "Dark mode"
+  },
+  "hero": {
+    "brand": "Trixync Education",
+    "headline": "Learn by building.",
+    "headlineMuted": "Not watching slides.",
+    "subheadline": "Practitioner-led coding cohorts in Medan — for your child from primary through senior high, plus a career track for fresh graduates. Live 2-hour sessions, real projects, Demo Day.",
+    "ctaPrimary": "Enroll via WhatsApp",
+    "ctaSecondary": "Explore programs"
+  },
+  "approach": {
+    "eyebrow": "Our approach",
+    "title": "Practitioners teach, students build",
+    "subtitle": "Every session is designed so students actually write code — not watch presentations. Parents can see progress through projects students bring home.",
+    "items": [
+      {
+        "title": "Every session is live",
+        "body": "2 hours, instructor-led. No slide decks pretending to be education."
+      },
+      {
+        "title": "Cohort-based, not self-paced",
+        "body": "Students learn with peers, ship together, and present on Demo Day."
+      },
+      {
+        "title": "Python foundation, then specialize",
+        "body": "Start with Python — then FastAPI backend or JavaScript/TypeScript full-stack when ready."
+      },
+      {
+        "title": "Portfolio from day one",
+        "body": "From Builder onward, projects are real, shareable, and deployable."
+      }
+    ]
+  },
+  "programsSection": {
+    "eyebrow": "Programs",
+    "title": "Six learning tracks + study-abroad prep",
+    "subtitle": "From primary school to job prep, plus a study-abroad syllabus (fully managed by Yanks and Brits — Trixync does not provide sessions).",
+    "viewDetails": "View details",
+    "viewAll": "All programs",
+    "sessionsLabel": "sessions",
+    "partnerPricing": "Managed by Yanks and Brits"
+  },
+  "pricing": {
+    "eyebrow": "Pricing",
+    "title": "Class fee — can be shared",
+    "subtitle": "Price is for one class (max 3 students). One student can pay in full, or 2–3 can split so each pays less.",
+    "colProgram": "Program",
+    "colStage": "Stage",
+    "colSessions": "Sessions",
+    "colPrice": "Class fee",
+    "colPer2": "Each (2 share)",
+    "colPer3": "Each (3 share)",
+    "note": "Micro-classes: maximum 3 students. The class fee stays fixed — more students (up to 3) means a lower cost per person.",
+    "cta": "Ask about pricing & schedule"
+  },
+  "collaboration": {
+    "eyebrow": "Collaboration",
+    "title": "Build with schools, teams, and partners",
+    "subtitle": "Trixync works with institutions and organizations that want practitioner-led coding programs — not slide decks. Tell us what you're building toward.",
+    "partnersEyebrow": "Current partners",
+    "partnerVisit": "Visit partner",
+    "partners": {
+      "yanksAndBrits": "Curriculum collaboration for Study Abroad Prep in Medan — taught by Winsten Coellins and Randy Brilliant Chandra. Trixync publishes the syllabus; delivery is managed by the partner."
+    },
+    "items": [
+      {
+        "title": "Schools & campuses",
+        "body": "Cohort programs, after-school labs, or curriculum support delivered by working engineers."
+      },
+      {
+        "title": "Corporate training",
+        "body": "Team upskilling and intern pipelines with the same production standards we use for clients."
+      },
+      {
+        "title": "Curriculum partners",
+        "body": "Joint syllabi and program design — like our Study Abroad Prep collaboration model."
+      }
+    ],
+    "ctaTitle": "Propose a collaboration",
+    "ctaBody": "Share your organization and what you have in mind. We'll continue on WhatsApp with next steps.",
+    "ctaButton": "Ask to collaborate"
+  },
+  "collaborationForm": {
+    "eyebrow": "Collaboration",
+    "title": "Propose via WhatsApp",
+    "subtitle": "Fill in a short form. We'll open WhatsApp with a ready-to-send message of your details.",
+    "close": "Close",
+    "organization": "Organization / institution",
+    "organizationPlaceholder": "School, company, or community name",
+    "contactName": "Contact name",
+    "contactNamePlaceholder": "Your full name",
+    "phone": "WhatsApp number",
+    "phonePlaceholder": "08… or +62…",
+    "email": "Email",
+    "emailPlaceholder": "you@email.com",
+    "city": "City / location",
+    "cityPlaceholder": "e.g. Medan",
+    "type": "Collaboration type",
+    "types": {
+      "school": "School / campus program",
+      "corporate": "Corporate training",
+      "curriculum": "Curriculum partnership",
+      "community": "Community / workshop",
+      "other": "Other"
+    },
+    "notes": "What do you have in mind?",
+    "notesPlaceholder": "Goals, audience size, timeline, or constraints",
+    "submit": "Continue to WhatsApp",
+    "submitHint": "WhatsApp will open with your message already filled in.",
+    "errorRequired": "Please complete organization, contact name, and WhatsApp number."
+  },
+  "enrollment": {
+    "eyebrow": "How enrollment works",
+    "title": "Climb the ladder — or join where you are",
+    "subtitle": "Graduates of each tier are naturally ready for the next. Experienced students can skip ahead with assessments. Pro Track welcomes self-taught developers and bootcamp grads.",
+    "windowsEyebrow": "Class schedule",
+    "windowsTitle": "Operating hours",
+    "windowsSubtitle": "Enrollment is open year-round. Sessions are scheduled within the hours below — in-person in Medan, or online when needed.",
+    "deliveryTitle": "Delivery & tools",
+    "deliveryItems": [
+      "Tier 1: Replit (browser-based, zero install)",
+      "Tier 2+: VS Code + local setup",
+      "Git introduced at Tier 2, enforced from Tier 3",
+      "Deploy targets: Railway, Render, or Vercel"
+    ],
+    "ladder": [
+      {
+        "label": "Junior Explorer",
+        "stage": "Primary 4–6",
+        "next": "Ready for Explorer"
+      },
+      {
+        "label": "Explorer",
+        "stage": "Junior High 7–9",
+        "next": "Ready for Builder Python Core"
+      },
+      {
+        "label": "Builder specialization",
+        "stage": "Senior High 10–12",
+        "next": "FastAPI Backend or JavaScript/TypeScript Full-stack"
+      },
+      {
+        "label": "Pro Track",
+        "stage": "Grads & job seekers",
+        "next": "Open entry + assessment"
+      }
+    ],
+    "windows": [
+      {
+        "window": "Monday–Friday",
+        "months": "Weekdays",
+        "duration": "9:00 AM – 5:00 PM"
+      },
+      {
+        "window": "Saturday",
+        "months": "Weekend",
+        "duration": "9:00 AM – 3:00 PM"
+      },
+      {
+        "window": "Sunday",
+        "months": "Closed",
+        "duration": "No sessions"
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Questions parents ask most",
+    "items": [
+      {
+        "q": "Do students need prior coding experience?",
+        "a": "Tier 1 (Junior Explorer) and Tier 2 (Explorer) are open entry — no experience needed. Tier 3 can waive Python Core with an assessment pass. Pro Track is open entry with a skills assessment to place you correctly."
+      },
+      {
+        "q": "Is there a JavaScript / TypeScript course?",
+        "a": "Yes. Builder Path B is a full JavaScript/TypeScript track: React & Next.js on the frontend, then Express or NestJS on the backend — after Python Core (or an assessment waiver)."
+      },
+      {
+        "q": "What language is used in class?",
+        "a": "Instruction is in Bahasa Indonesia. Code, docs, and tooling are in English — the same bilingual setup used in real developer work."
+      },
+      {
+        "q": "Where are classes held?",
+        "a": "In-person in Medan, North Sumatra (venue confirmed per cohort). Online via Google Meet / Zoom is available for remote students or when needed. Hours: Mon–Fri 9:00 AM–5:00 PM, Saturday 9:00 AM–3:00 PM, closed Sunday."
+      },
+      {
+        "q": "How big are the cohorts?",
+        "a": "Micro-classes: maximum 3 students per class — closer tutor attention and clearer progress for every learner."
+      },
+      {
+        "q": "When can we enroll?",
+        "a": "Anytime. Enrollment is not limited to school holidays. Sessions are scheduled within operating hours (Mon–Fri 9:00 AM–5:00 PM, Saturday 9:00 AM–3:00 PM; closed Sunday)."
+      },
+      {
+        "q": "Why is pricing fixed this way?",
+        "a": "The fee is for one class (not per person). If 2–3 students join, they can split the class fee so each pays less."
+      },
+      {
+        "q": "Is there a study-abroad preparation program?",
+        "a": "Yes. Study Abroad Prep is a curriculum collaboration with Yanks and Brits Study Abroad Program in Medan. Trixync only publishes the syllabus here (foundation-year style Python Fundamentals I & II — different from Explorer & Python Core — plus Web Programming and Data Analytics). Trixync does not provide sessions; everything is managed by Yanks and Brits."
+      },
+      {
+        "q": "What do students walk away with?",
+        "a": "Working projects, Demo Day presentation experience, and — for Pro Track — a polished GitHub, resume, LinkedIn, certificate, and alumni network access."
+      }
+    ]
+  },
+  "footer": {
+    "eyebrow": "Get in touch",
+    "title": "Ready to start your child's coding journey?",
+    "subtitle": "Send us a WhatsApp message — we'll help you pick the right program and cohort.",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "blurb": "Trixync Education is a cohort-based coding program from Trixync, a technology studio in Medan. We teach the way we build software for clients: clear, hands-on, and outcome-focused.",
+    "navigate": "Navigate",
+    "contact": "Contact",
+    "studio": "Main studio",
+    "rights": "All rights reserved."
+  },
+  "whatsapp": {
+    "label": "Chat on WhatsApp",
+    "shortLabel": "WhatsApp",
+    "prefilled": "Hi Trixync! I'm interested in enrolling in your coding education program. Please share the next cohort schedule and how to enroll."
+  },
+  "enrollForm": {
+    "eyebrow": "Enrollment",
+    "title": "Register via WhatsApp",
+    "subtitle": "Fill in a short form. We'll open WhatsApp with a ready-to-send message of your details.",
+    "close": "Close",
+    "contactName": "Parent / contact name",
+    "contactNamePlaceholder": "Full name",
+    "studentName": "Student name",
+    "studentNamePlaceholder": "Child / participant name",
+    "studentAgeGrade": "Age / grade",
+    "studentAgeGradePlaceholder": "e.g. 12 years · Grade 7",
+    "phone": "WhatsApp number",
+    "phonePlaceholder": "08… or +62…",
+    "program": "Program",
+    "sessions": "sessions",
+    "classFeeHint": "(class fee)",
+    "partySize": "Students in the class",
+    "partySizeHint": "Class fee stays fixed; 2–3 students can split so each pays less.",
+    "partySolo": "Pay in full",
+    "partySplit": "Split {count}",
+    "estimatedShare": "Estimated per person",
+    "preferredSchedule": "Preferred schedule",
+    "preferredSchedulePlaceholder": "e.g. Saturday morning, or a weekday afternoon",
+    "notes": "Notes (optional)",
+    "notesPlaceholder": "Questions, special needs, or tutor preferences",
+    "submit": "Continue to WhatsApp",
+    "submitHint": "WhatsApp will open with your message already filled in.",
+    "errorRequired": "Please complete contact name, student name, WhatsApp number, and program."
+  },
+  "programsPage": {
+    "eyebrow": "Programs",
+    "title": "Pick the right track for your child's age",
+    "subtitle": "Seven programs — from primary school to job prep, plus a study-abroad syllabus (fully managed by Yanks and Brits).",
+    "viewCurriculum": "View curriculum",
+    "partnerPricing": "Managed by Yanks and Brits",
+    "breadcrumbHome": "Home",
+    "breadcrumbPrograms": "Programs"
+  },
+  "programDetail": {
+    "audience": "Who it's for",
+    "sessions": "Sessions",
+    "classSize": "Class size",
+    "investment": "Class fee",
+    "priceSplitHint": "Can be split among up to 3 students",
+    "priceSolo": "1 student",
+    "priceDuo": "2 students (each)",
+    "priceTrio": "3 students (each)",
+    "partnerPricingLabel": "Program delivery",
+    "partnerPricingBody": "Trixync does not provide sessions for this program. Delivery — classes, schedule, tutors, fees, and enrollment — is fully managed by {partner}. We only publish the syllabus/curriculum here for reference.",
+    "partnerPricingCta": "Visit {partner}",
+    "partnerPricingShort": "Partner-managed",
+    "syllabusScope": "Syllabus scope",
+    "syllabusScopeHint": "Curriculum outline only — not a Trixync class schedule",
+    "enroll": "Enroll now",
+    "allPrograms": "All programs",
+    "overview": "Overview",
+    "prerequisites": "Prerequisites",
+    "tools": "Tools",
+    "byTheEnd": "By the end, students can",
+    "sessionStructure": "Session structure",
+    "sessionStructureNote": "Each session runs 2 hours, live, instructor-led.",
+    "yourTutor": "Your tutor",
+    "viewProfile": "View profile",
+    "fullCurriculum": "Full curriculum",
+    "curriculumIntro": "Every session has clear topics and learning outcomes — parents can see exactly what students will work on.",
+    "whatYouLearn": "What you'll learn",
+    "deliverable": "Deliverable",
+    "otherPrograms": "Other programs"
+  },
+  "tutorsPage": {
+    "eyebrow": "Tutors",
+    "title": "Taught directly by practitioners",
+    "subtitle": "Our instructors build software for real clients — and teach to the same standard.",
+    "viewProfile": "View profile",
+    "applyEyebrow": "Join the team",
+    "applyTitle": "Apply to become a freelance tutor",
+    "applyBody": "This is a freelance role with an interview. We look for industry practitioners — not tutors who only read slides. Bring real-world standards into our courses.",
+    "applyButton": "Apply to become a tutor",
+    "ctaTitle": "Questions about a program?",
+    "ctaBody": "Reach out on WhatsApp. We'll help you choose the right program and schedule for your child.",
+    "ctaButton": "Chat on WhatsApp",
+    "breadcrumbHome": "Home",
+    "breadcrumbTutors": "Tutors"
+  },
+  "tutorDetail": {
+    "background": "Background",
+    "focus": "Teaching focus",
+    "programsTaught": "Programs taught",
+    "askAbout": "Ask about this program",
+    "otherTutors": "Other tutors",
+    "viewProfile": "View profile",
+    "viewCurriculum": "View curriculum",
+    "applyButton": "Apply to become a tutor"
+  },
+  "tutorApplyForm": {
+    "eyebrow": "Tutor careers",
+    "title": "Apply as a freelance tutor",
+    "subtitle": "Fill in the form, attach your resume, then send via WhatsApp. We'll schedule an interview.",
+    "close": "Close",
+    "roleNote": "This is a freelance tutor position. There will be an interview before you start teaching.",
+    "industryNote": "Industry experience matters. We want industry standards in our courses — not tutors who only lecture from slides or worksheets.",
+    "fullName": "Full name",
+    "fullNamePlaceholder": "Name as on your CV",
+    "phone": "WhatsApp number",
+    "phonePlaceholder": "08… or +62…",
+    "email": "Email",
+    "emailPlaceholder": "you@email.com",
+    "city": "City / location",
+    "cityPlaceholder": "e.g. Medan",
+    "linkedIn": "LinkedIn",
+    "linkedInPlaceholder": "https://linkedin.com/in/…",
+    "github": "GitHub",
+    "githubPlaceholder": "https://github.com/…",
+    "portfolio": "Portfolio / website",
+    "portfolioPlaceholder": "https://…",
+    "yearsExperience": "Years of industry experience",
+    "yearsExperiencePlaceholder": "e.g. 4 years as a software engineer",
+    "currentRole": "Current role",
+    "currentRolePlaceholder": "e.g. Full-stack engineer at a startup",
+    "industryBackground": "Industry background",
+    "industryBackgroundPlaceholder": "Tell us what you've built, which stacks you use, and how you work on real product teams.",
+    "programs": "Programs you can teach",
+    "programsHint": "Select one or more tracks that match your expertise.",
+    "teachingApproach": "How you would teach",
+    "teachingApproachPlaceholder": "Describe how you'd bring industry practice into class (live coding, project review, debugging, etc.).",
+    "availability": "Availability",
+    "availabilityPlaceholder": "e.g. Saturday mornings, weekday afternoons, 2 sessions/week",
+    "resume": "Resume / CV",
+    "resumeHint": "PDF or Word, max 5 MB. The file is sent with your application.",
+    "resumeSelected": "Selected: {file}",
+    "submit": "Send via WhatsApp",
+    "submitting": "Preparing…",
+    "submitHint": "On supported devices your resume is shared with the message. Otherwise WhatsApp opens and you attach the file.",
+    "shareTitle": "Trixync Education tutor application",
+    "errorRequired": "Complete required fields, pick at least one program, and attach your resume.",
+    "errorResumeSize": "Resume must be 5 MB or smaller.",
+    "attachTitle": "Attach your resume in WhatsApp",
+    "attachSubtitle": "Your message is open. Please attach {file} in the same chat.",
+    "attachStep1": "WhatsApp opened with your application details.",
+    "attachStep2": "In that chat, attach your resume file: {file}",
+    "downloadResume": "Download resume file again",
+    "attachDone": "I've attached it"
+  },
+  "language": {
+    "label": "Language",
+    "id": "Indonesia",
+    "en": "English"
+  }
+}

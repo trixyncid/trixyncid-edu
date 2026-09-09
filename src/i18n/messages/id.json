@@ -1,0 +1,391 @@
+{
+  "meta": {
+    "title": "Trixync Education — Belajar Coding di Medan",
+    "titleTemplate": "%s · Trixync Education",
+    "description": "Program coding berbasis cohort di Medan untuk anak SD, SMP, SMA, dan fresh graduate. Sesi live 2 jam, proyek nyata, Demo Day. Diajar praktisi, bukan slide."
+  },
+  "nav": {
+    "programs": "Program",
+    "tutors": "Tutor",
+    "approach": "Pendekatan",
+    "pricing": "Biaya",
+    "collaboration": "Kolaborasi",
+    "faq": "FAQ",
+    "enroll": "Daftar",
+    "openMenu": "Buka menu",
+    "closeMenu": "Tutup menu",
+    "skipToContent": "Langsung ke konten",
+    "switchToLight": "Mode terang",
+    "switchToDark": "Mode gelap"
+  },
+  "hero": {
+    "brand": "Trixync Education",
+    "headline": "Belajar dengan membangun.",
+    "headlineMuted": "Bukan hanya menonton slide.",
+    "subheadline": "Program coding berbasis cohort di Medan — untuk anak Anda dari SD hingga SMA, dan jalur karier untuk lulusan baru. Sesi live 2 jam, proyek nyata, Demo Day.",
+    "ctaPrimary": "Daftar via WhatsApp",
+    "ctaSecondary": "Lihat program"
+  },
+  "approach": {
+    "eyebrow": "Pendekatan kami",
+    "title": "Praktisi mengajar, anak membangun",
+    "subtitle": "Setiap sesi dirancang agar anak benar-benar menulis kode — bukan menonton presentasi. Orang tua bisa melihat progres lewat proyek yang dibawa pulang.",
+    "items": [
+      {
+        "title": "Setiap sesi live",
+        "body": "2 jam, dipandu instruktur. Bukan rekaman video yang disamarkan jadi kelas."
+      },
+      {
+        "title": "Berbasis cohort, bukan belajar sendiri",
+        "body": "Anak belajar bersama teman sebaya, menyelesaikan proyek bersama, dan presentasi di Demo Day."
+      },
+      {
+        "title": "Fondasi Python, lalu spesialisasi",
+        "body": "Semua mulai dari Python — kemudian FastAPI backend atau JavaScript/TypeScript full-stack saat siap."
+      },
+      {
+        "title": "Portofolio dari hari pertama",
+        "body": "Dari tingkat Builder, proyek bisa dibagikan, di-deploy, dan ditunjukkan ke orang lain."
+      }
+    ]
+  },
+  "programsSection": {
+    "eyebrow": "Program",
+    "title": "Enam jalur belajar + persiapan study abroad",
+    "subtitle": "Dari SD hingga persiapan kerja, plus silabus study abroad (seluruhnya dikelola Yanks and Brits — Trixync tidak menyediakan sesi).",
+    "viewDetails": "Detail program",
+    "viewAll": "Semua program",
+    "sessionsLabel": "sesi",
+    "partnerPricing": "Dikelola Yanks and Brits"
+  },
+  "pricing": {
+    "eyebrow": "Biaya",
+    "title": "Biaya per kelas — bisa dibagi",
+    "subtitle": "Harga adalah biaya satu kelas (maks. 3 siswa). Satu orang bisa bayar penuh, atau 2–3 orang berbagi sehingga per orang lebih murah.",
+    "colProgram": "Program",
+    "colStage": "Jenjang",
+    "colSessions": "Sesi",
+    "colPrice": "Biaya kelas",
+    "colPer2": "Per orang (2)",
+    "colPer3": "Per orang (3)",
+    "note": "Kelas mikro: maksimal 3 siswa. Total biaya kelas tetap — semakin banyak yang ikut (hingga 3), semakin ringan per orang.",
+    "cta": "Tanya biaya & jadwal"
+  },
+  "collaboration": {
+    "eyebrow": "Kolaborasi",
+    "title": "Bangun bersama sekolah, tim, dan mitra",
+    "subtitle": "Trixync bekerja dengan institusi dan organisasi yang ingin program coding dipandu praktisi — bukan slide deck. Ceritakan tujuan Anda.",
+    "partnersEyebrow": "Mitra saat ini",
+    "partnerVisit": "Kunjungi mitra",
+    "partners": {
+      "yanksAndBrits": "Kolaborasi kurikulum Study Abroad Prep di Medan — diajar oleh Winsten Coellins dan Randy Brilliant Chandra. Trixync menampilkan silabus; penyelenggaraan dikelola mitra."
+    },
+    "items": [
+      {
+        "title": "Sekolah & kampus",
+        "body": "Program cohort, lab setelah sekolah, atau dukungan kurikulum yang dijalankan engineer yang aktif bekerja."
+      },
+      {
+        "title": "Pelatihan korporat",
+        "body": "Upskilling tim dan pipeline intern dengan standar production yang sama kami pakai untuk klien."
+      },
+      {
+        "title": "Mitra kurikulum",
+        "body": "Desain silabus dan program bersama — seperti model kolaborasi Study Abroad Prep kami."
+      }
+    ],
+    "ctaTitle": "Ajukan kolaborasi",
+    "ctaBody": "Bagikan organisasi dan ide Anda. Kami lanjutkan via WhatsApp untuk langkah berikutnya.",
+    "ctaButton": "Ajukan kolaborasi"
+  },
+  "collaborationForm": {
+    "eyebrow": "Kolaborasi",
+    "title": "Ajukan via WhatsApp",
+    "subtitle": "Isi formulir singkat. Kami akan membuka WhatsApp dengan pesan siap kirim berisi detail Anda.",
+    "close": "Tutup",
+    "organization": "Organisasi / institusi",
+    "organizationPlaceholder": "Nama sekolah, perusahaan, atau komunitas",
+    "contactName": "Nama kontak",
+    "contactNamePlaceholder": "Nama lengkap Anda",
+    "phone": "Nomor WhatsApp",
+    "phonePlaceholder": "08… atau +62…",
+    "email": "Email",
+    "emailPlaceholder": "nama@email.com",
+    "city": "Kota / lokasi",
+    "cityPlaceholder": "Contoh: Medan",
+    "type": "Jenis kolaborasi",
+    "types": {
+      "school": "Program sekolah / kampus",
+      "corporate": "Pelatihan korporat",
+      "curriculum": "Kemitraan kurikulum",
+      "community": "Komunitas / workshop",
+      "other": "Lainnya"
+    },
+    "notes": "Apa yang Anda rencanakan?",
+    "notesPlaceholder": "Tujuan, ukuran audiens, timeline, atau kendala",
+    "submit": "Lanjut ke WhatsApp",
+    "submitHint": "WhatsApp akan terbuka dengan pesan yang sudah terisi.",
+    "errorRequired": "Lengkapi organisasi, nama kontak, dan nomor WhatsApp."
+  },
+  "enrollment": {
+    "eyebrow": "Cara mendaftar",
+    "title": "Naik tangga belajar — atau mulai dari posisi Anda",
+    "subtitle": "Lulusan setiap tingkat siap lanjut ke berikutnya. Siswa berpengalaman bisa loncat dengan assessment. Pro Track terbuka untuk yang belajar mandiri atau dari bootcamp lain.",
+    "windowsEyebrow": "Jadwal kelas",
+    "windowsTitle": "Jam operasional",
+    "windowsSubtitle": "Pendaftaran terbuka sepanjang tahun. Sesi disusun dalam jam operasional di bawah — tatap muka di Medan, atau online jika dibutuhkan.",
+    "deliveryTitle": "Cara belajar & tools",
+    "deliveryItems": [
+      "Tingkat 1: Replit (browser, tanpa instalasi)",
+      "Tingkat 2+: VS Code + setup lokal",
+      "Git diperkenalkan di Tingkat 2, wajib dari Tingkat 3",
+      "Deploy ke Railway, Render, atau Vercel"
+    ],
+    "ladder": [
+      {
+        "label": "Junior Explorer",
+        "stage": "SD kelas 4–6",
+        "next": "Siap lanjut ke Explorer"
+      },
+      {
+        "label": "Explorer",
+        "stage": "SMP kelas 7–9",
+        "next": "Siap lanjut ke Builder Python Core"
+      },
+      {
+        "label": "Builder spesialisasi",
+        "stage": "SMA kelas 10–12",
+        "next": "FastAPI Backend atau JavaScript/TypeScript Full-stack"
+      },
+      {
+        "label": "Pro Track",
+        "stage": "Lulusan & pencari kerja",
+        "next": "Terbuka + assessment"
+      }
+    ],
+    "windows": [
+      {
+        "window": "Senin–Jumat",
+        "months": "Hari kerja",
+        "duration": "09.00–17.00"
+      },
+      {
+        "window": "Sabtu",
+        "months": "Akhir pekan",
+        "duration": "09.00–15.00"
+      },
+      {
+        "window": "Minggu",
+        "months": "Tutup",
+        "duration": "Tidak ada sesi"
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Pertanyaan yang sering ditanyakan orang tua",
+    "items": [
+      {
+        "q": "Apakah anak perlu pengalaman coding sebelumnya?",
+        "a": "Tingkat 1 (Junior Explorer) dan Tingkat 2 (Explorer) terbuka untuk semua — tidak perlu pengalaman. Tingkat 3 bisa melewati Python Core jika lulus assessment. Pro Track terbuka dengan assessment untuk menempatkan level yang tepat."
+      },
+      {
+        "q": "Apakah ada kursus JavaScript / TypeScript?",
+        "a": "Ya. Builder Jalur B adalah track JavaScript/TypeScript lengkap: React & Next.js di frontend, lalu Express atau NestJS di backend — setelah Python Core (atau waiver assessment)."
+      },
+      {
+        "q": "Bahasa apa yang dipakai saat belajar?",
+        "a": "Penjelasan di kelas menggunakan Bahasa Indonesia. Kode, dokumentasi, dan tools dalam Bahasa Inggris — sama seperti di dunia kerja developer profesional di Indonesia."
+      },
+      {
+        "q": "Di mana kelasnya diadakan?",
+        "a": "Tatap muka di Medan, Sumatera Utara (lokasi dikonfirmasi per cohort). Online via Google Meet / Zoom tersedia untuk siswa remote atau jika dibutuhkan. Jam operasional: Senin–Jumat 09.00–17.00, Sabtu 09.00–15.00, Minggu tutup."
+      },
+      {
+        "q": "Berapa besar ukuran kelas?",
+        "a": "Kelas mikro: maksimal 3 siswa per kelas — perhatian tutor lebih dekat, progress lebih terpantau."
+      },
+      {
+        "q": "Kapan bisa mendaftar?",
+        "a": "Kapan saja. Pendaftaran tidak terbatas pada libur sekolah. Sesi dijadwalkan dalam jam operasional (Senin–Jumat 09.00–17.00, Sabtu 09.00–15.00; Minggu tutup)."
+      },
+      {
+        "q": "Mengapa biayanya fixed seperti itu?",
+        "a": "Biaya adalah harga satu kelas (bukan per orang). Jika 2–3 siswa ikut, mereka bisa membagi biaya kelas sehingga per orang lebih murah."
+      },
+      {
+        "q": "Apakah ada program persiapan study abroad?",
+        "a": "Ya. Study Abroad Prep adalah kolaborasi kurikulum dengan Yanks and Brits Study Abroad Program di Medan. Trixync hanya menampilkan silabus di sini (Python Fundamentals I & II bergaya foundation-year — berbeda dari Explorer & Python Core — plus Web Programming dan Data Analytics). Trixync tidak menyediakan sesi; seluruhnya dikelola Yanks and Brits."
+      },
+      {
+        "q": "Apa yang dibawa pulang setelah selesai?",
+        "a": "Proyek yang jalan, pengalaman presentasi Demo Day, dan — untuk Pro Track — GitHub, resume, LinkedIn yang rapi, sertifikat, dan akses jaringan alumni."
+      }
+    ]
+  },
+  "footer": {
+    "eyebrow": "Hubungi kami",
+    "title": "Siap mulai perjalanan coding anak Anda?",
+    "subtitle": "Kirim pesan WhatsApp — kami bantu pilih program dan cohort yang pas.",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "blurb": "Trixync Education adalah program coding berbasis cohort dari Trixync, studio teknologi di Medan. Kami mengajar dengan cara yang sama kami membangun software untuk klien: jelas, hands-on, dan berorientasi hasil.",
+    "navigate": "Navigasi",
+    "contact": "Kontak",
+    "studio": "Studio utama",
+    "rights": "Hak cipta dilindungi."
+  },
+  "whatsapp": {
+    "label": "Chat WhatsApp",
+    "shortLabel": "WhatsApp",
+    "prefilled": "Halo Trixync! Saya tertarik mendaftar program coding education. Mohon info cohort berikutnya dan cara enroll."
+  },
+  "enrollForm": {
+    "eyebrow": "Pendaftaran",
+    "title": "Daftar via WhatsApp",
+    "subtitle": "Isi formulir singkat. Kami buka WhatsApp dengan pesan siap kirim berisi data Anda.",
+    "close": "Tutup",
+    "contactName": "Nama orang tua / kontak",
+    "contactNamePlaceholder": "Nama lengkap",
+    "studentName": "Nama siswa",
+    "studentNamePlaceholder": "Nama anak / peserta",
+    "studentAgeGrade": "Usia / kelas",
+    "studentAgeGradePlaceholder": "Contoh: 12 tahun · SMP 7",
+    "phone": "Nomor WhatsApp",
+    "phonePlaceholder": "08… atau +62…",
+    "program": "Program",
+    "sessions": "sesi",
+    "classFeeHint": "(biaya kelas)",
+    "partySize": "Jumlah siswa di kelas",
+    "partySizeHint": "Biaya kelas tetap; 2–3 orang bisa berbagi sehingga per orang lebih murah.",
+    "partySolo": "Bayar penuh",
+    "partySplit": "Bagi {count}",
+    "estimatedShare": "Estimasi per orang",
+    "preferredSchedule": "Jadwal yang diinginkan",
+    "preferredSchedulePlaceholder": "Contoh: Sabtu pagi, atau weekday sore",
+    "notes": "Catatan (opsional)",
+    "notesPlaceholder": "Pertanyaan, kebutuhan khusus, atau preferensi tutor",
+    "submit": "Lanjut ke WhatsApp",
+    "submitHint": "WhatsApp akan terbuka dengan pesan yang sudah terisi.",
+    "errorRequired": "Lengkapi nama kontak, nama siswa, nomor WhatsApp, dan program."
+  },
+  "programsPage": {
+    "eyebrow": "Program",
+    "title": "Pilih jalur yang sesuai usia anak",
+    "subtitle": "Tujuh program — dari SD hingga persiapan kerja, plus silabus study abroad (dikelola penuh Yanks and Brits).",
+    "viewCurriculum": "Lihat kurikulum",
+    "partnerPricing": "Dikelola Yanks and Brits",
+    "breadcrumbHome": "Beranda",
+    "breadcrumbPrograms": "Program"
+  },
+  "programDetail": {
+    "audience": "Untuk siapa",
+    "sessions": "Sesi",
+    "classSize": "Ukuran kelas",
+    "investment": "Biaya kelas",
+    "priceSplitHint": "Bisa dibagi maks. 3 siswa",
+    "priceSolo": "1 siswa",
+    "priceDuo": "2 siswa (per orang)",
+    "priceTrio": "3 siswa (per orang)",
+    "partnerPricingLabel": "Penyelenggaraan program",
+    "partnerPricingBody": "Trixync tidak menyediakan sesi untuk program ini. Seluruh penyelenggaraan — kelas, jadwal, tutor, biaya, dan pendaftaran — dikelola penuh oleh {partner}. Di sini kami hanya menampilkan silabus/kurikulum sebagai referensi.",
+    "partnerPricingCta": "Kunjungi {partner}",
+    "partnerPricingShort": "Dikelola mitra",
+    "syllabusScope": "Cakupan silabus",
+    "syllabusScopeHint": "Outline kurikulum saja — bukan jadwal kelas Trixync",
+    "enroll": "Daftar sekarang",
+    "allPrograms": "Semua program",
+    "overview": "Ringkasan",
+    "prerequisites": "Prasyarat",
+    "tools": "Tools",
+    "byTheEnd": "Setelah selesai, anak bisa",
+    "sessionStructure": "Struktur per sesi",
+    "sessionStructureNote": "Setiap sesi berlangsung 2 jam, live, dipandu instruktur.",
+    "yourTutor": "Tutor Anda",
+    "viewProfile": "Lihat profil",
+    "fullCurriculum": "Kurikulum lengkap",
+    "curriculumIntro": "Setiap sesi punya topik dan hasil belajar yang jelas — orang tua bisa melihat apa yang akan dikerjakan anak.",
+    "whatYouLearn": "Yang akan dipelajari",
+    "deliverable": "Hasil akhir",
+    "otherPrograms": "Program lain"
+  },
+  "tutorsPage": {
+    "eyebrow": "Tutor",
+    "title": "Diajar langsung oleh praktisi",
+    "subtitle": "Instruktur kami membangun software untuk klien nyata — dan mengajar dengan standar yang sama.",
+    "viewProfile": "Lihat profil",
+    "applyEyebrow": "Bergabung dengan tim",
+    "applyTitle": "Lamar jadi freelance tutor",
+    "applyBody": "Posisi freelance dengan proses wawancara. Kami mencari praktisi industri — bukan tutor yang hanya membaca slide. Bawa standar industri ke kelas kami.",
+    "applyButton": "Lamar jadi tutor",
+    "ctaTitle": "Punya pertanyaan tentang program?",
+    "ctaBody": "Hubungi kami via WhatsApp. Kami bantu pilih program dan jadwal yang cocok untuk anak Anda.",
+    "ctaButton": "Chat WhatsApp",
+    "breadcrumbHome": "Beranda",
+    "breadcrumbTutors": "Tutor"
+  },
+  "tutorDetail": {
+    "background": "Latar belakang",
+    "focus": "Fokus mengajar",
+    "programsTaught": "Program yang diajar",
+    "askAbout": "Tanya tentang program ini",
+    "otherTutors": "Tutor lain",
+    "viewProfile": "Lihat profil",
+    "viewCurriculum": "Lihat kurikulum",
+    "applyButton": "Lamar jadi tutor"
+  },
+  "tutorApplyForm": {
+    "eyebrow": "Karir tutor",
+    "title": "Lamar jadi freelance tutor",
+    "subtitle": "Isi formulir, lampirkan resume, lalu kirim via WhatsApp. Tim kami akan menjadwalkan wawancara.",
+    "close": "Tutup",
+    "roleNote": "Ini posisi freelance tutor. Prosesnya mencakup wawancara sebelum Anda mulai mengajar.",
+    "industryNote": "Pengalaman industri penting. Kami ingin standar industri masuk ke kursus — bukan sekadar mengajar dari slide atau soal latihan.",
+    "fullName": "Nama lengkap",
+    "fullNamePlaceholder": "Nama sesuai CV",
+    "phone": "Nomor WhatsApp",
+    "phonePlaceholder": "08… atau +62…",
+    "email": "Email",
+    "emailPlaceholder": "nama@email.com",
+    "city": "Kota / lokasi",
+    "cityPlaceholder": "Contoh: Medan",
+    "linkedIn": "LinkedIn",
+    "linkedInPlaceholder": "https://linkedin.com/in/…",
+    "github": "GitHub",
+    "githubPlaceholder": "https://github.com/…",
+    "portfolio": "Portfolio / situs",
+    "portfolioPlaceholder": "https://…",
+    "yearsExperience": "Lama pengalaman industri",
+    "yearsExperiencePlaceholder": "Contoh: 4 tahun sebagai software engineer",
+    "currentRole": "Peran / pekerjaan saat ini",
+    "currentRolePlaceholder": "Contoh: Full-stack engineer di startup",
+    "industryBackground": "Latar belakang industri",
+    "industryBackgroundPlaceholder": "Ceritakan produk yang Anda bangun, stack yang dipakai, dan bagaimana Anda bekerja di tim nyata.",
+    "programs": "Program yang bisa Anda ajar",
+    "programsHint": "Pilih satu atau lebih jalur yang sesuai keahlian Anda.",
+    "teachingApproach": "Bagaimana Anda akan mengajar",
+    "teachingApproachPlaceholder": "Jelaskan cara Anda membawa praktik industri ke kelas (live coding, review proyek, debugging, dsb).",
+    "availability": "Ketersediaan",
+    "availabilityPlaceholder": "Contoh: Sabtu pagi, weekday sore, 2 sesi/minggu",
+    "resume": "Resume / CV",
+    "resumeHint": "PDF atau Word, maks. 5 MB. File akan dikirim bersama aplikasi Anda.",
+    "resumeSelected": "Terpilih: {file}",
+    "submit": "Kirim via WhatsApp",
+    "submitting": "Menyiapkan…",
+    "submitHint": "Di perangkat yang mendukung, resume ikut terbagi. Jika tidak, WhatsApp terbuka lalu Anda lampirkan file.",
+    "shareTitle": "Lamaran tutor Trixync Education",
+    "errorRequired": "Lengkapi data wajib, pilih minimal satu program, dan lampirkan resume.",
+    "errorResumeSize": "Ukuran resume maksimal 5 MB.",
+    "attachTitle": "Lampirkan resume di WhatsApp",
+    "attachSubtitle": "Pesan Anda sudah terbuka. Silakan lampirkan {file} di chat yang sama.",
+    "attachStep1": "WhatsApp sudah terbuka dengan data lamaran Anda.",
+    "attachStep2": "Di chat tersebut, lampirkan file resume: {file}",
+    "downloadResume": "Unduh lagi file resume",
+    "attachDone": "Sudah dilampirkan"
+  },
+  "language": {
+    "label": "Bahasa",
+    "id": "Indonesia",
+    "en": "English"
+  }
+}
