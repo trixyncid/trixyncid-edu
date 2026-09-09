@@ -107,17 +107,16 @@ function buildTutor(locale: Locale, tutor: Tutor): LocalizedTutor {
   return {
     id: tutor.id,
     name: tutor.name,
-    role: tutor.role,
-    location: tutor.location,
-    headline: tutor.headline,
-    bio: tutor.bio,
-    focus: tutor.focus,
     teaches: tutor.teaches,
     languages: tutor.languages,
     email: tutor.email,
     website: tutor.website,
     social: tutor.social,
-    ...localized,
+    role: localized?.role ?? tutor.role,
+    location: localized?.location ?? tutor.location,
+    headline: localized?.headline ?? tutor.headline,
+    bio: localized?.bio ?? tutor.bio,
+    focus: localized?.focus ?? tutor.focus,
   };
 }
 
