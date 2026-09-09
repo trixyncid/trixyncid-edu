@@ -27,7 +27,7 @@ export const tutors: Tutor[] = [
       "I develop reliable software from concept through launch—focused on clear architecture, thoughtful user experiences, and outcomes teams can measure and trust.",
     bio: [
       "Winsten leads Trixync Education and founded Trixync, a technology & systems studio in Medan. He teaches the same standards used to ship production software: clear architecture, live problem-solving, and projects students can show.",
-      "He is a fullstack software engineer at Wilmar Consultancy Services, leading teams on modern Next.js and NestJS systems, with earlier roles at Umify, Collaboration For Good, and the University of Wisconsin–Madison. He holds a B.S. in Data Science and a Computer Science certificate from UW–Madison.",
+      "He is a fullstack software engineer at Wilmar Consultancy Services, leading teams on modern Next.js and NestJS systems, with earlier roles at Umify, Collaboration For Good, and the University of Wisconsin–Madison (USA). He holds a B.S. in Data Science and a Computer Science certificate from UW–Madison.",
       "His work spans production systems for logistics, scheduling, property, and education. Stack includes Next.js, React, TypeScript, NestJS, Elysia, Python, FastAPI, PostgreSQL, and cloud deployment. Classes are bilingual: Bahasa Indonesia in the room, English for code and tooling.",
     ],
     focus: [

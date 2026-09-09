@@ -233,7 +233,7 @@ Assessment determines starting readiness and any recommended catch-up material.
 | 4 | 9–11 | Interview Preparation | Technical interview patterns, DSA basics (arrays, strings, dicts), mock interviews |
 | 5 | 12–13 | Soft Skills for Tech | Communication in English & Indonesian, working in teams, agile basics |
 | 6 | 14–15 | Industry Exposure | Guest practitioner talks, code review sessions, real-world workflow walkthrough |
-| 7 | 16 | Demo Day + Graduation | Final portfolio presentation, LinkedIn post, certificate |
+| 7 | 16 | Demo Day + Graduation | Final portfolio presentation, LinkedIn post |
 
 ### Session Detail
 
@@ -282,7 +282,6 @@ Assessment determines starting readiness and any recommended catch-up material.
 #### Phase 7 — Demo Day + Graduation (Session 16)
 - Each student presents their portfolio project (5–10 min)
 - Live on LinkedIn or recorded for posting
-- Trixync certificate of completion issued
 - Alumni network invitation
 
 ### Learning Outcomes
@@ -291,7 +290,6 @@ By end of program, participants will have:
 - A completed, ATS-friendly tech resume
 - An optimized LinkedIn profile
 - Experience with mock technical interviews
-- A graduation certificate from Trixync.id
 - Access to the Trixync alumni network
 
 ---

@@ -206,14 +206,13 @@ export const curriculum: CurriculumBlock[] = [
       {
         number: "16",
         title: "Demo Day & Graduation",
-        topics: "Portfolio presentation, LinkedIn post, certificate, alumni",
+        topics: "Portfolio presentation, LinkedIn post, alumni",
         youWillLearn: [
           "Present a portfolio project in 5–10 minutes with live demo",
           "Publish or draft a LinkedIn post about graduation and projects",
-          "Receive Trixync certificate of completion",
           "Join the alumni network and understand ongoing resources",
         ],
-        deliverable: "Demo Day presentation, LinkedIn post, Trixync certificate",
+        deliverable: "Demo Day presentation, LinkedIn post",
       },
     ],
   },

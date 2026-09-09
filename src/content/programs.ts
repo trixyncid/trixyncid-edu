@@ -243,7 +243,7 @@ export const programs: Program[] = [
     price: "Rp 4.800.000",
     vibe: "Open entry + skills assessment. Portfolio, resume, interviews, industry exposure.",
     summary:
-      "For graduates and job seekers: polish your GitHub and LinkedIn, ship deployable projects, prep interviews, and graduate with a certificate.",
+      "For graduates and job seekers: polish your GitHub and LinkedIn, ship deployable projects, and prep for interviews.",
     tools: "GitHub, LinkedIn, deployed portfolio projects, mock interviews.",
     prerequisites:
       "Open entry. All applicants complete the Trixync Skills Assessment (coding test, portfolio review if any, short interview).",
@@ -251,7 +251,7 @@ export const programs: Program[] = [
       "Polished GitHub profile with at least 1 deployed project",
       "ATS-friendly tech resume + optimized LinkedIn",
       "Mock technical interview experience",
-      "Trixync certificate + alumni network access",
+      "Alumni network access",
     ],
     phases: [
       { sessions: "1–2", title: "Developer Identity", focus: "GitHub, LinkedIn, personal branding" },
@@ -283,7 +283,7 @@ export const programs: Program[] = [
       {
         sessions: "16",
         title: "Demo Day",
-        focus: "Portfolio presentation, certificate, alumni invite",
+        focus: "Portfolio presentation, alumni invite",
       },
     ],
     curriculum: curriculaByProgramId["pro-track"],
@@ -457,6 +457,6 @@ export const faqs = [
   },
   {
     q: "What do students walk away with?",
-    a: "Working projects, Demo Day presentation experience, and — for Pro Track — a polished GitHub, resume, LinkedIn, certificate, and alumni network access.",
+    a: "Working projects, Demo Day presentation experience, and — for Pro Track — a polished GitHub, resume, LinkedIn, and alumni network access.",
   },
 ] as const;

@@ -277,7 +277,7 @@ const localizedByLocale: Record<
       classSize: "Maks. 3 peserta",
       vibe: "Terbuka + assessment skill. Portofolio, resume, interview, exposure industri.",
       summary:
-        "Untuk lulusan dan pencari kerja: rapikan GitHub dan LinkedIn, ship proyek yang bisa di-deploy, persiapan interview, dan lulus dengan sertifikat.",
+        "Untuk lulusan dan pencari kerja: rapikan GitHub dan LinkedIn, ship proyek yang bisa di-deploy, dan persiapan interview.",
       tools: "GitHub, LinkedIn, proyek portofolio ter-deploy, mock interview.",
       prerequisites:
         "Terbuka untuk semua. Semua pendaftar menyelesaikan Trixync Skills Assessment (tes coding, review portofolio jika ada, wawancara singkat).",
@@ -285,7 +285,7 @@ const localizedByLocale: Record<
         "Profil GitHub rapi dengan minimal 1 proyek ter-deploy",
         "Resume tech ramah ATS + LinkedIn yang dioptimalkan",
         "Pengalaman mock technical interview",
-        "Sertifikat Trixync + akses jaringan alumni",
+        "Akses jaringan alumni",
       ],
       phases: [
         { sessions: "1–2", title: "Identitas Developer", focus: "GitHub, LinkedIn, personal branding" },
@@ -294,7 +294,7 @@ const localizedByLocale: Record<
         { sessions: "9–11", title: "Persiapan Interview", focus: "Pola DSA, mock interview, metode STAR" },
         { sessions: "12–13", title: "Soft Skills", focus: "Komunikasi tim, agile, Bahasa Inggris di kerja" },
         { sessions: "14–15", title: "Exposure Industri", focus: "Praktisi tamu, code review, workflow nyata" },
-        { sessions: "16", title: "Demo Day", focus: "Presentasi portofolio, sertifikat, undangan alumni" },
+        { sessions: "16", title: "Demo Day", focus: "Presentasi portofolio, undangan alumni" },
       ],
     },
     "study-abroad-prep": {
@@ -504,7 +504,7 @@ const localizedByLocale: Record<
       classSize: "Max 3 participants",
       vibe: "Open entry + skills assessment. Portfolio, resume, interviews, industry exposure.",
       summary:
-        "For graduates and job seekers: polish your GitHub and LinkedIn, ship deployable projects, prep interviews, and graduate with a certificate.",
+        "For graduates and job seekers: polish your GitHub and LinkedIn, ship deployable projects, and prep for interviews.",
       tools: "GitHub, LinkedIn, deployed portfolio projects, mock interviews.",
       prerequisites:
         "Open entry. All applicants complete the Trixync Skills Assessment (coding test, portfolio review if any, short interview).",
@@ -512,7 +512,7 @@ const localizedByLocale: Record<
         "Polished GitHub profile with at least 1 deployed project",
         "ATS-friendly tech resume + optimized LinkedIn",
         "Mock technical interview experience",
-        "Trixync certificate + alumni network access",
+        "Alumni network access",
       ],
       phases: [
         { sessions: "1–2", title: "Developer Identity", focus: "GitHub, LinkedIn, personal branding" },
@@ -521,7 +521,7 @@ const localizedByLocale: Record<
         { sessions: "9–11", title: "Interview Prep", focus: "DSA patterns, mock interviews, STAR method" },
         { sessions: "12–13", title: "Soft Skills", focus: "Team communication, agile, English at work" },
         { sessions: "14–15", title: "Industry Exposure", focus: "Guest practitioners, code review, real workflows" },
-        { sessions: "16", title: "Demo Day", focus: "Portfolio presentation, certificate, alumni invite" },
+        { sessions: "16", title: "Demo Day", focus: "Portfolio presentation, alumni invite" },
       ],
     },
     "study-abroad-prep": {

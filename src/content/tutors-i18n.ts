@@ -38,7 +38,7 @@ const localizedByLocale: Record<Locale, Record<string, LocalizedFields>> = {
         "Saya mengembangkan software yang andal dari konsep hingga peluncuran—dengan fokus pada arsitektur yang jelas, pengalaman pengguna yang matang, dan hasil yang bisa diukur serta dipercaya tim.",
       bio: [
         "Winsten memimpin Trixync Education dan mendirikan Trixync, studio teknologi & sistem di Medan. Ia mengajar standar yang sama dipakai untuk ship software production: arsitektur jelas, problem-solving live, dan proyek yang bisa ditunjukkan siswa.",
-        "Ia adalah fullstack software engineer di Wilmar Consultancy Services, memimpin tim pada sistem Next.js dan NestJS modern, dengan pengalaman sebelumnya di Umify, Collaboration For Good, dan University of Wisconsin–Madison. Ia meraih B.S. in Data Science dan sertifikat Computer Science dari UW–Madison.",
+        "Ia adalah fullstack software engineer di Wilmar Consultancy Services, memimpin tim pada sistem Next.js dan NestJS modern, dengan pengalaman sebelumnya di Umify, Collaboration For Good, dan University of Wisconsin–Madison (USA). Ia meraih B.S. in Data Science dan sertifikat Computer Science dari UW–Madison.",
         "Karyanya mencakup sistem production untuk logistik, penjadwalan, properti, dan pendidikan. Stack mencakup Next.js, React, TypeScript, NestJS, Elysia, Python, FastAPI, PostgreSQL, dan deployment cloud. Kelas bilingual: Bahasa Indonesia di ruang kelas, Bahasa Inggris untuk kode dan tools.",
       ],
       focus: [
@@ -73,7 +73,7 @@ const localizedByLocale: Record<Locale, Record<string, LocalizedFields>> = {
         "I develop reliable software from concept through launch—focused on clear architecture, thoughtful user experiences, and outcomes teams can measure and trust.",
       bio: [
         "Winsten leads Trixync Education and founded Trixync, a technology & systems studio in Medan. He teaches the same standards used to ship production software: clear architecture, live problem-solving, and projects students can show.",
-        "He is a fullstack software engineer at Wilmar Consultancy Services, leading teams on modern Next.js and NestJS systems, with earlier roles at Umify, Collaboration For Good, and the University of Wisconsin–Madison. He holds a B.S. in Data Science and a Computer Science certificate from UW–Madison.",
+        "He is a fullstack software engineer at Wilmar Consultancy Services, leading teams on modern Next.js and NestJS systems, with earlier roles at Umify, Collaboration For Good, and the University of Wisconsin–Madison (USA). He holds a B.S. in Data Science and a Computer Science certificate from UW–Madison.",
         "His work spans production systems for logistics, scheduling, property, and education. Stack includes Next.js, React, TypeScript, NestJS, Elysia, Python, FastAPI, PostgreSQL, and cloud deployment. Classes are bilingual: Bahasa Indonesia in the room, English for code and tooling.",
       ],
       focus: [
